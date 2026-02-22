@@ -65,6 +65,4 @@ Add better UI design
 Deploy online
 
 Author -
-Rohan Gaikwad
-BSc Computer Science
-Interested in AI, ML, and Backend Development
+Shreyas Dhomase
